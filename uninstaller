@@ -1,0 +1,3 @@
+docker-compose down
+
+pkill python manage.py
